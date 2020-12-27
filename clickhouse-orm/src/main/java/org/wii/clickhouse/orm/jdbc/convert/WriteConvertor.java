@@ -3,11 +3,6 @@ package org.wii.clickhouse.orm.jdbc.convert;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 22:03
- */
 public class WriteConvertor extends ResultConvertor implements IWriteConvertor {
 
     public WriteConvertor(IConvertFactory convertFactory) {

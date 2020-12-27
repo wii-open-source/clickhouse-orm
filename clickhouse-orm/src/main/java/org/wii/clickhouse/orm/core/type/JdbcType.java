@@ -4,11 +4,6 @@ import java.sql.Types;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 22:01
- */
 public enum JdbcType {
     ARRAY(Types.ARRAY),
     BIT(Types.BIT),

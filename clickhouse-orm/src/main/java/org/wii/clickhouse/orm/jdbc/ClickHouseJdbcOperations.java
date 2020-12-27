@@ -6,11 +6,6 @@ import org.wii.clickhouse.orm.jdbc.callback.ClickHouseStatementCallback;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 21:48
- */
 public interface ClickHouseJdbcOperations {
     /**
      * 执行

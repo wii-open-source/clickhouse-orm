@@ -8,11 +8,6 @@ import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 22:06
- */
 public class SimpleTypeUtil {
     public static final  String[]      JAVA8_DATE_TIME = {
             "java.time.Instant",

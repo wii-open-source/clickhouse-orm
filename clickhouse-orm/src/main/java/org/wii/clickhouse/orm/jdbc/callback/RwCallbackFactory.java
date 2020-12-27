@@ -14,11 +14,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 21:55
- */
 @Slf4j
 public class RwCallbackFactory {
     private RwConvertor rwConvertor;

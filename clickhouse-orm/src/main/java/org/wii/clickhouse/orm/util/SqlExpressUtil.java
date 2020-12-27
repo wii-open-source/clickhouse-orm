@@ -14,11 +14,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Objects;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 22:06
- */
 public class SqlExpressUtil {
     private final static String PREFIX = "@{";
 

@@ -6,11 +6,6 @@ import java.sql.ResultSet;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 21:59
- */
 public interface IConvertFactory {
     <T> EntityTable<T> initResultEntity(Class<T> entityClass);
 

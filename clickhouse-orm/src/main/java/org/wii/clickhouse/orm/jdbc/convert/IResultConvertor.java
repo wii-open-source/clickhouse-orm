@@ -3,11 +3,6 @@ package org.wii.clickhouse.orm.jdbc.convert;
 import java.sql.ResultSet;
 import java.util.List;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 21:58
- */
 public interface IResultConvertor {
     /**
      * 结果转实体

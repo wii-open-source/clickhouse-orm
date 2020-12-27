@@ -5,11 +5,6 @@ import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 22:00
- */
 public class EntityField {
     private String name;
     private Field field;

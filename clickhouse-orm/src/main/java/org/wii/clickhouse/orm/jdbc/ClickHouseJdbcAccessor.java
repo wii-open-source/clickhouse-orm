@@ -5,11 +5,6 @@ import org.springframework.util.Assert;
 
 import javax.sql.DataSource;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 22:07
- */
 public abstract class ClickHouseJdbcAccessor implements ClickHouseJdbcOperations, InitializingBean {
 
     private DataSource dataSource;

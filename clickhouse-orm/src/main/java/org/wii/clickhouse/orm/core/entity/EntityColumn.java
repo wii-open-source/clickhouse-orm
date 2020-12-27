@@ -2,11 +2,6 @@ package org.wii.clickhouse.orm.core.entity;
 
 import org.wii.clickhouse.orm.core.type.JdbcType;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 21:59
- */
 public class EntityColumn {
     private EntityTable table;
     // 属性名

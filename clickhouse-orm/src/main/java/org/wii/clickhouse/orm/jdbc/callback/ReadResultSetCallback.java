@@ -5,11 +5,6 @@ import org.wii.clickhouse.orm.jdbc.convert.RwConvertor;
 import java.sql.ResultSet;
 import java.util.List;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 21:55
- */
 public class ReadResultSetCallback {
     private RwConvertor rwConvertor;
 

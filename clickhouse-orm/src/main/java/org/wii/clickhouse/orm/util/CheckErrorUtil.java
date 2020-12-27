@@ -10,11 +10,6 @@ import javax.persistence.Transient;
 import java.lang.reflect.Field;
 import java.util.List;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 22:05
- */
 @Slf4j
 public class CheckErrorUtil {
     private static final String TEMPLATE_SYNTAX = "@{";

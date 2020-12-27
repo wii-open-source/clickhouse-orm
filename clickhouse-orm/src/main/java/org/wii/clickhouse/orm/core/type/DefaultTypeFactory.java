@@ -4,11 +4,6 @@ import java.io.Serializable;
 import java.lang.reflect.Constructor;
 import java.util.*;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 22:02
- */
 public class DefaultTypeFactory implements TypeFactory, Serializable {
     private static final long serialVersionUID = -1L;
 

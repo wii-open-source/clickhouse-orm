@@ -1,10 +1,5 @@
 package org.wii.clickhouse.orm.jdbc.convert;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 22:04
- */
 public class ConvertorBuilder {
     private RwConvertor rwConvertor;
 

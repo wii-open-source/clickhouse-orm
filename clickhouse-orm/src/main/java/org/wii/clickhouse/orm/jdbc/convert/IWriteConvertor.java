@@ -3,11 +3,6 @@ package org.wii.clickhouse.orm.jdbc.convert;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 21:58
- */
 public interface IWriteConvertor {
     <T> String insertValueToSql(String sql, String valueExpress, List<T> list);
 

@@ -12,11 +12,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 22:04
- */
 public class EntityConvertFactory {
     private static final Map<Class<?>, EntityTable<?>> entityTableMap = new ConcurrentHashMap<>();
 

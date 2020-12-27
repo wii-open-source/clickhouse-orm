@@ -12,11 +12,6 @@ import java.sql.ResultSet;
 import java.util.*;
 import java.util.regex.Pattern;
 
-/**
- * @author tanghong
- * @Desc
- * @Date 27/12/2020 22:00
- */
 @Slf4j
 public class EntityTable<T> {
     public static final Pattern DELIMITER = Pattern.compile("^[`\\[\"]?(.*?)[`\\]\"]?$");
