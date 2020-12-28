@@ -1,4 +1,4 @@
-# spring-boot-starter-clickhouse
+# clickhouse-orm
 clickhouse-orm 目标是提供给一个操作友好，高性能，可扩展的，能够提升开发效率的ClickHouse ORM框架；
 ## 1.clickhouse-orm
 ### 1.1.基本功能
